@@ -9,9 +9,9 @@
 <br><br><br>
 <!--- <center><img src="calculator.jpg" width="300" height="300" /></center>--->
 
-<p align="center">
+<p align="center" height="100" width="100">
 
-  <img src="calculator.jpg height=100 width=100">
+  <img src="calculator.jpg ">
 
 
 </p>
