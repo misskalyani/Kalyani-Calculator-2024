@@ -11,7 +11,7 @@
 
 <p align="center">
 
-  <img src="calculator.jpg">
+  <img src="calculator.jpg height=100 width=100">
 
 
 </p>
