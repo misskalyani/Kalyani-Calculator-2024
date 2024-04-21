@@ -9,7 +9,7 @@
 <br><br><br>
 <!--- <center><img src="calculator.jpg" width="300" height="300" /></center>--->
 
-<p align="center" height="75" width="75">
+<p align="center" height="50" width="50">
 
   <img src="calculator.jpg ">
 
